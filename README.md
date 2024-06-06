@@ -1,5 +1,5 @@
 
-Basic Python Exercises
+#Basic Python Exercises
 Welcome to the Basic Python Exercises repository! This collection of exercises is designed to help you practice and enhance your understanding of fundamental Python concepts, including working with lists, matrices, trees, and regular expressions.
 
 Table of Contents
